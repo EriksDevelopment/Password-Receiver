@@ -30,6 +30,5 @@ A simple and interactive console application for generating strong and customiza
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/yourusername/PasswordReceiver.git
 cd PasswordReceiver
 dotnet run
